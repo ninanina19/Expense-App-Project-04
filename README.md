@@ -7,21 +7,21 @@ This application is used for input and get report of expenses. It has the form t
 <summary>Form Input Page</summary>
    
 ## <!-- Horizontal Line --> ## 
-![Home Page](images/1.png)
+![Home Page](images/01.png)
 </details>
 
 <details>
 <summary>All Expenses Page</summary>
    
 ## <!-- Horizontal Line --> ## 
-![All Expenses image](images/2.png)
+![All Expenses image](images/02.png)
 </details>
 
 <details>
 <summary>By Day Expenses Page</summary>
    
 ## <!-- Horizontal Line --> ## 
-![By Day Expenses](images/3.png)
+![By Day Expenses](images/03.png)
 </details>
 
 <details>
