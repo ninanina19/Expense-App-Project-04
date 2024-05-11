@@ -1,6 +1,6 @@
 # Expense-App-Project-04
 This is an expense application creation project.
-This application is used for input and get report of expenses. It has the form to input and the report to monitor the expenses. This application was developed using **Zoho Creator**, which can be accessed by web or mobile phone.
+This application is used for input and get report of expenses. Therefore the application has the form to input and the report to monitor the expenses. This application was developed using **Zoho Creator**, which can be accessed by web or mobile phone.
 
 ### Application Screenshots
 <details>
