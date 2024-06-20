@@ -13,7 +13,7 @@
 3. **Reports Generation:** Automatic generation of detailed expense reports, including summaries and track actual spending against the budget.
 4. **Export and Import:** Options to export data to CSV or Excel for external analysis and import existing data.
 5. **Mobile Accessibility:** Fully functional on mobile devices through the Zoho Creator app, allowing users to track expenses on the go.
-6. **User Roles and Permissions:** Customizable access levels to ensure that only authorized users can view and modify expense data.
+<!--6. **User Roles and Permissions:** Customizable access levels to ensure that only authorized users can view and modify expense data.-->
 
 **Technology Stack:**
 - **Platform:** Zoho Creator for rapid application development and deployment.
