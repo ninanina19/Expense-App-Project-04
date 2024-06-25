@@ -4,8 +4,8 @@
 **Target Audience:**
 - Individuals seeking to manage personal finances
 - Small business owners
-- Financial managers
-- Employees tracking work-related expenses
+<!--- Financial managers
+<!--- Employees tracking work-related expenses-->
 
 **Key Features:**
 1. **Data Entry Forms:** Intuitive forms for users to quickly and easily input daily expenses.
@@ -20,14 +20,14 @@
 - **Database:** Zoho Creator’s built-in database for storing and managing data.
 - **Frontend:** Zoho Creator's built-in UI components for forms and reports.
 - **Backend:** Zoho Creator’s Deluge scripting for custom workflows and automation.
-- **Integration:** Integration with other Zoho apps (e.g., Zoho Books, Zoho CRM) and third-party services (e.g., Google Drive for receipt storage).
+<!--- **Integration:** Integration with other Zoho apps (e.g., Zoho Books, Zoho CRM) and third-party services (e.g., Google Drive for receipt storage).-->
 - **Mobile Accessibility:** Native mobile apps provided by Zoho Creator for Android and iOS devices.
 
 **Benefits:**
 - **For Individuals:** Provides an easy-to-use platform for tracking personal expenses, ensuring better financial discipline.
 - **For Small Businesses:** Simplifies expense management, aiding in accurate bookkeeping and financial planning.
-- **For Financial Managers:** Offers insights into spending patterns, helping in budget preparation and financial analysis.
-- **For Employees:** Facilitates efficient tracking of work-related expenses, ensuring timely reimbursements.
+<!--- **For Financial Managers:** Offers insights into spending patterns, helping in budget preparation and financial analysis.
+<!--- **For Employees:** Facilitates efficient tracking of work-related expenses, ensuring timely reimbursements.-->
 
 **Conclusion:**
 Expense Tracker aims to make daily expense management straightforward and efficient. Leveraging the robust capabilities of Zoho Creator, this application provides a seamless experience for users to input, monitor, and analyze their expenses. Whether for personal use or business purposes, Expense Tracker offers a practical solution to keep financial matters under control.
